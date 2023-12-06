@@ -23,6 +23,10 @@ public class Serialisation {
     public static void main(String[] args) throws FileNotFoundException, IOException, ClassNotFoundException {
         // TODO code application logic here
         
+        /*
+        Hello Sam!
+        */
+        
         System.out.println((int) 3.5);
         
         Rectangle rect1 = new Rectangle(2, 5, "yellow");
